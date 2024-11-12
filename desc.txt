@@ -1,0 +1,4 @@
+Intrusion Detection System with Anomaly Detection Model : Developed an Intrusion Detection System
+(IDS) using machine learning techniques to identify and classify network anomalies and potential cyber
+threats. Leveraged an anomaly detection model (Isolation Forest) on the NSL-KDD dataset to detect deviations from normal network traffic patterns.
+Key Skills: Python, Machine Learning, Anomaly Detection, Network Security, Scikit-Learn, Data Preprocessing, Model Evaluation
